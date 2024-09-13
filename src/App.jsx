@@ -1,5 +1,5 @@
 import './App.css';
-import Contact from './sections/contact/Contack';
+import Contact from './sections/contact/Contact';
 import Footer from './sections/footer/footer';
 import Hero from './sections/Hero/Hero';
 import Skills from './sections/skills/skills';
