@@ -59,7 +59,11 @@ function Hero() {
             </span>
         
         <p className={styles.description}>
-         With a passion for developing more projects to upgrade my skillset.
+        As a dedicated second-year B.Tech Computer Science and Artificial Intelligence student, I'm passionate about leveraging technology to solve real-world problems. I've honed my skills in MERN stack development, building full-stack web applications. My interest extends to the cutting-edge fields of generative AI and quantum computing, where I'm actively exploring their potential.<br/>
+<br/>
+I'm an active member of my university's Quantum Computing Society and ACM Student Chapter, fostering a collaborative learning environment. I'm committed to a hands-on, project-based approach to learning, which allows me to apply theoretical knowledge to practical solutions.<br/>
+<br></br>
+I'm eager to contribute my skills and enthusiasm to innovative projects and collaborate with like-minded individuals to drive technological advancements
         </p>
         <a href={CV}>
           <button className='hover'>View Resume</button>
