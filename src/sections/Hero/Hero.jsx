@@ -42,7 +42,7 @@ function Hero() {
         </div>
         <div className={styles.info}>
             <h1>Lokesh<br /> Jasti</h1>
-            <h3>Front end Developer</h3>
+            <h3>Web Developer</h3>
             <span>
             <a href="https://www.linkedin.com/in/lokesh-jasti-66a6a728b/" target='_blank'>
             <img src ={Linekdin} alt='linkedIN'></img>
