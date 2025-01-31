@@ -72,7 +72,7 @@ I'm eager to contribute my skills and enthusiasm to innovative projects and coll
         <a href={CV} download>
           <button className='hover' >Download Resume</button>
         </a>
-        <a href={comingsooon}>
+        <a href="https://github.com/LokeshJasti05?tab=repositories" target='blank'>
           <button className='hover'>View Projects</button>
         </a>
         </div>
